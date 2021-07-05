@@ -6,6 +6,8 @@ The created ASCII files can be further used in a USGS software "Soil Water Balan
 The groundwater recharge data can be further used as inputs to MODFLOW to predict future ground water depletions.
 
 @author: Shaobin Li, sli2@huskers.unl.edu | leeshbin@gmail.com
+
+test: 7-5-2021
 '''
 
 import time
